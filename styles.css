@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#cccccc;
+}
+.player_one{
+	background-color:white;
+	border:1px solid black;
+	border-radius:3px;
+    padding:10px;
+}
+.player_one a{
+	text-decoration:none;
+	color:black;
+}
+h1,h3,h2{
+	text-align:center;
+}
+.player_two{
+	background-color:white;
+    padding:10px;
+	width:325px;
+	margin:auto;
+	border-radius:3px;
+	border:1px solid black;
+}
+audio{
+	width:100%;
+}
